@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeNewsCustomLayout</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="notification_title">रिया से तीन दिन में 26 घंटे पूछताछ</string>
+    <string name="notification_msg">सवालों के चक्रव्यूह में रिया, 9 घंटे की पूछताछ के बाद सीबीआई ने कल फिर किया तलब</string>
+
+
+</resources>
